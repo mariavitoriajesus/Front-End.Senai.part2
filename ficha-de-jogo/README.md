@@ -1,7 +1,5 @@
 # Ficha de Jogo RPG - Masaharu Ishii
 
-![Preview da Ficha](public/screenshot.png)
-
 Uma ficha de personagem interativa para RPG de mesa, criada com React. Esta ficha permite gerenciar os atributos e habilidades do personagem Masaharu Ishii com contadores interativos.
 
 ## ✨ Funcionalidades
