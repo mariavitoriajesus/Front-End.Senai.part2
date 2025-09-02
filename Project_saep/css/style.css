@@ -122,3 +122,30 @@ main{
 .img8{
     grid-area: img8;
 }
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5vh;
+    width: 100%;
+    background-color: #111;
+    color: white;
+}
+
+footer h1{
+    font-size: calc(0.8rem + 0.8vw);
+    font-family: var(--SpecialFont);
+}
+
+footer ul{
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer ul li {
+    list-style: none;
+}
+
